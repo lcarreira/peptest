@@ -15,7 +15,7 @@ namespace CoisaBonita.Controllers
             //LASANHA Bolonhesa
             return View();
 
-            //BAAAAHHHHHHHHHHHH
+            //BAAAAHHHH
         }
     }
 }
