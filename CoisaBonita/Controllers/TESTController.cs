@@ -11,7 +11,7 @@ namespace CoisaBonita.Controllers
         // GET: TEST
         public ActionResult Index()
         {
-            //BATATINHAS COM ARROZ E GALINHA
+            //BATATINHAS COM ARROZ E GALINHA COM AMENDOAS
             return View();
         }
     }
